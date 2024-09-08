@@ -1,4 +1,4 @@
-# Desenvolvendo um processo de ciência de dados no Orange Data Mining
+# Desenvolvendo um projeto de ciência de dados no Orange Data Mining
 
 Para minha graduação desenvolvi um projeto de ciência de dados com os seguintes objetivos:
 
